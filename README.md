@@ -1,5 +1,5 @@
 # GN
-//Execution
+##Execution
 * execute todo.html in chrome
 * todo.html and todo.js should be in same folder
 * Enter task in text box, click 'Add' to add to todo list
