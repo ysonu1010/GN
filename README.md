@@ -1,4 +1,4 @@
-Execution
+Basic Todo App- Assignment GN
 
 *Way 1
 1. execute 'index.html' in chrome 
